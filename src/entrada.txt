@@ -1,0 +1,23 @@
+Grupo: victor cabral lucas 
+Grupo: pedro jose
+Grupo: juan henrique
+Grupo: ana joana
+Existe: lucas
+Existe: gugu
+Conhece: victor cabral
+Conhece: pedro lucas
+Conhece: pedro jose
+CriarOutraFila:
+ChegarPessoa: pedro
+ChegarPessoa: victor
+ChegarPessoa: juan
+ChegarPessoa: jose
+ChegarPessoa: cabral
+Imprimir:
+CriarOutraFila: 
+ChegarPessoa: henrique
+Imprimir:
+DesistirPessoa: pedro fila1
+imprimir:
+AtenderFila:
+imprimir:
